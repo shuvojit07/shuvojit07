@@ -65,7 +65,6 @@ I am continuously learning new frontend technologies to improve performance and 
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shuvojit07&show_icons=true&theme=react)
 
