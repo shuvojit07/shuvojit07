@@ -1,47 +1,65 @@
+## Hey 👋, I'm Shuvojit Tikader!
 
-<h2>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>
-  Hello 👋, I'm Shuvojit Tikader
-</h2>
+<a href="https://www.linkedin.com/in/shuvojit-tikader/">
+  <img align="left" alt="LinkedIn" width="22px"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/shuvojit07">
+  <img align="left" alt="GitHub" width="22px"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
+<br />
+<br />
 
-<p>
-  <em>
-    Front-End Web Developer | React | JavaScript
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  </em>
+I am a **Front-End Web Developer** focused on building modern, responsive, and user-friendly web interfaces.  
+I enjoy working with **React and JavaScript**, turning UI/UX designs into clean and efficient code, and continuously learning modern web technologies.
+
+<img align="right" alt="coding gif" width="360"
+     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+---
+
+### 🧐 More About Me:
+
+- 🔭 I’m currently working on **Frontend projects using React**
+- 🌱 I’m currently learning **Advanced React & Performance Optimization**
+- 👨‍💻 Most of my projects are available on **GitHub**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 📫 Reach me on **LinkedIn**
+- ⚡ Fun fact: I love clean UI and well-structured code
+
+---
+
+### 🔨 Languages and Tools:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42"/>
 </p>
 
 ---
 
-### 🌐 Connect with me
+### 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shuvojit%20Tikader-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shuvojit-tikader/)
-[![GitHub Followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/shuvojit07)
-
----
-
-### 👨‍💻 About Me
-
-I am a passionate **Front-End Web Developer** focused on building responsive, user-friendly, and modern web interfaces.  
-I enjoy turning UI/UX designs into clean, efficient, and maintainable code.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=react" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ My Projects
 
-```javascript
-const shuvojit = {
-  role: "Front-End Web Developer",
-  languages: ["HTML", "CSS", "JavaScript"],
-  framework: ["React"],
-  tools: ["Git", "GitHub", "VS Code"],
-  interests: [
-    "Responsive Design",
-    "UI/UX Implementation",
-    "Modern Web Applications"
-  ],
-  currentlyLearning: ["Advanced React", "Performance Optimization"],
-  openToWork: true
-};
+- 🌐 Responsive Landing Pages  
+- ⚛️ React UI Components  
+- 📱 Mobile-friendly Web Applications  
+
+---
+
+⭐️ Feel free to explore my repositories and connect with me!
