@@ -66,13 +66,14 @@ I am continuously learning new frontend technologies to improve performance and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuvojit07&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvojit07&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shuvojit07&show_icons=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvojit07&layout=compact&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shuvojit07" />
+  <img src="https://streak-stats.demolab.com?user=shuvojit07&cache_seconds=86400" />
 </p>
+
 
 
 ---
