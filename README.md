@@ -45,14 +45,6 @@ I enjoy working with **React and JavaScript**, turning UI/UX designs into clean 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=react" />
-</p>
-
----
 
 ### 🛠️ My Projects
 
